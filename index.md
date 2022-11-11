@@ -3,15 +3,58 @@ layout: page
 full_logo: true
 title: 
 subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+## Summary
+Software Engineer who has experience with security assessment and development of security automatic testing tools. Conducted static analysis and dynamic analysis for security assessment. Using code clone detection technique, researched and developed finding unpatched CVE (Common Vulnerabilities and Exposures) in open source. Built vulnerability information database for identifying vulnerable codes and providing patch information to developers. Developing Automatic Vulnerability Analysis System and integrating with CI like Gerrit for automatic code review.
+
+## Technical Skills
+Languages: C, Python, Shell Script (fluent); C++, Java (working knowledge)
+Operating System: Linux, Windows, and Mac OS X
+Tools: Ida, Gdb, Burp Suite, Cppcheck, MySQL (fluent); Metasploit (working knowledge)
+
+## Work Experience
+Software Engineer, Samsung Electronics, Seoul, South Korea - Jan.2015 to Present
+Working in Security Team, Samsung Research.
+
+	Automatic Vulnerability Analysis System Development
+	Developed with java spring framework.
+	Built comprehensive vulnerability database including vulnerable information 
+like CVE, CWE and CAPEC, and vulnerability patch information like CVE fix commits.
+	Developed open source vulnerability scanning tool using code clone detection technique.
+	Integrated with CI for automatic code review.
+	Researching advanced open source vulnerability scanning algorithm for customized open source.
+
+	Security Assessment
+	Performed static analysis like checklist review, threat modeling review, and code review.
+	Performed dynamic analysis like fuzzing test and penetration test.
+	Checked unfixed open source CVEs.
+
+## Publication
+### FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing**
+<u>**Sunwoo Kim**</u>, Youngmin Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, and Byoungyoung Lee
+USENIX Security Symposium (**Security**) 2022
+
+### SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities
+Jaewon Hur, Suhwan Song, <u>**Sunwoo Kim**</u>, and Byoungyoung Lee
+ACM Conference on Computer and Communications Security (**CCS**) 2022
+
+### R2Z2: Detecting Rendering Regressions in Web Browsers through Differential Fuzz Testing
+Suhwan Song, Jaewon Hur, <u>**Sunwoo Kim**</u>, Philip Rogers, and Byoungyoung Lee
+IEEE/ACM International Conference on Software Engineering (**ICSE**) 2022
+
+
+## Education
+### Seoul National University, Seoul, South Korea
+M.S. in Electrical and Computer Engineering
+(Mar 2020 - Feb 2022)
+
+### Korea University, Seoul, South Korea
+B.S. in Computer Engineering and Cryptology
+(Mar 2009 - Feb 2015)
 
 <br>
 <br>

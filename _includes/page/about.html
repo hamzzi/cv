@@ -6,8 +6,8 @@
 
     <div class="text-center">
         {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
-        <small class="copyright">Updated: {{ site.time | date: date_format }} <span class="fa fa-heart"></span> By
-            <a href="{{ site.author.homepage }}" target="_blank" rel="nofollow">{{ site.author.name }}</a></small>
+        <div class="copyright">Updated: {{ site.time | date: date_format }} <span class="fa fa-heart"></span> By
+            <a href="{{ site.author.homepage }}" target="_blank" rel="nofollow">{{ site.author.name }}</a></div>
     </div>
 </div>
 </div>
